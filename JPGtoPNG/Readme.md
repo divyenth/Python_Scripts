@@ -1,8 +1,11 @@
 ## This script is used to convert image file format from JPG to PNG
+ All ths images  in the input folder will be converted ito PNG and saved in the Output_folder specified while running the script
+ 
+ 
+## Prerequisite
 
-## Prerequisite 
 1. pip install Pillow
-2. create a folders 
+2. create a folder 
    
    -> This folder should contain the input images
    
