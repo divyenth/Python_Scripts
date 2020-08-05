@@ -5,8 +5,10 @@
 ## Prerequisites 
 1.pip install requests
 
+
 ## Running the code
-Run the code in hte terminal as 
+Run the code in hte terminal as
+
 $python check_my_password.py password
 
 you can also check muliple passwords at the sametime as follows
