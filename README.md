@@ -4,5 +4,5 @@
 3. Converting Image file format from JPG to PNG
 4. Merging Pdfs
 5. Web Scrapping (Scrappingthe hacker news website and listing the news with points more than 99)
-6. Password checker (A secure way to check if yourpassword was ever hacked)
+6. Password checker (A secure way to check if your password was ever hacked)
 
