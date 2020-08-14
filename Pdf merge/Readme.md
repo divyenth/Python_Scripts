@@ -3,6 +3,7 @@
 ## Prerequisites 
 1. Pip install PyPDF2
 2. make sure the files you want to combine and the script are in the same folder
+3. The filenames should not contain any blank spackes.
 
 ## Runnig the script
 Run the script in the terminal as 
